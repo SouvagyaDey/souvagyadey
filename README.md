@@ -97,15 +97,11 @@ Focused on building **clean, scalable, and production-ready backend systems**.
     src="https://github-readme-stats.vercel.app/api?username=SouvagyaDey&show_icons=true&hide_border=true" 
     height="165"
   />
-</p>
-
-<p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=SouvagyaDey&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouvagyaDey&layout=compact&hide_border=true" 
     height="165"
   />
 </p>
-
 
 ---
 
