@@ -5,7 +5,7 @@
 ### Backend Developer • Data Analysis • AI Applications
 
 <p>
-  <img src="https://img.shields.io/badge/B.Tech-CSE-blue" />
+  <img src="https://img.shields.io/badge/Degree-B.Tech%20CSE-blue" />
   <img src="https://img.shields.io/badge/Graduation-2025-success" />
   <img src="https://img.shields.io/badge/Location-Kolkata%2C%20India-lightgrey" />
 </p>
@@ -28,11 +28,13 @@
 
 ## Professional Summary
 
-Computer Science undergraduate with hands-on experience in **backend development using Python and Django**.  
-Strong in **API design, authentication systems, database modeling**, and **data-driven applications**.
+I am a Computer Science undergraduate with hands-on experience in **backend development using Python and Django**.  
+My primary interests lie in building **scalable backend systems**, designing **clean RESTful APIs**, and working with **structured data and AI-assisted applications**.
 
-Experienced in integrating **AI-assisted features** and working with structured datasets.  
-Focused on building **clean, scalable, and production-ready backend systems**.
+I have a strong foundation in **Data Structures and Algorithms**, backend architecture, and database design.  
+I enjoy converting problem statements into maintainable systems and writing code that is readable, modular, and production-ready.
+
+Currently, I am preparing for **software engineering roles** with a focus on **backend, data, and AI-driven systems**.
 
 ---
 
@@ -53,6 +55,14 @@ Focused on building **clean, scalable, and production-ready backend systems**.
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
+### Core Concepts
+- Data Structures & Algorithms  
+- RESTful API Design  
+- Authentication & Authorization (JWT)  
+- Object-Oriented Programming  
+- Backend System Design  
+- Data Cleaning and Validation  
+
 ### Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,linux,postman" />
@@ -62,33 +72,74 @@ Focused on building **clean, scalable, and production-ready backend systems**.
 
 ## Selected Projects
 
-### DocsCure — Healthcare & E-Commerce Backend Platform
-**Tech Stack:** Django, Django REST Framework, MySQL, MongoDB, JWT  
+---
 
-- Designed a backend-centric healthcare platform supporting appointments and medical commerce  
-- Implemented JWT-based authentication with role-based access control  
-- Built modular REST APIs for appointments, prescriptions, inventory, and payments  
-- Used MySQL for transactional workflows and MongoDB for flexible medical records  
+### DocsCure — Healthcare & E-Commerce Backend Platform
+
+<p>
+  <img src="https://skillicons.dev/icons?i=django,python,mysql,mongodb" />
+</p>
+
+**Overview**  
+DocsCure is a backend-centric healthcare platform that supports doctor appointments, hospital listings, and medical product ordering through a unified system.
+
+**Key Responsibilities & Features**
+- Designed and developed RESTful APIs using Django REST Framework  
+- Implemented JWT-based authentication with role-based access control (doctor, patient, admin)  
+- Built modular Django applications for appointments, prescriptions, inventory, and payments  
+- Used MySQL for transactional data and MongoDB for flexible medical records  
+- Applied schema validation and clean data modeling to ensure scalability  
+
+**Focus Areas**
+Backend architecture, authentication workflows, database design, API scalability
 
 ---
 
 ### Master EDA — AI-Powered Exploratory Data Analysis Platform
-**Tech Stack:** Django REST Framework, React, Gemini AI, Pandas  
 
-- Developed automated EDA pipelines for CSV datasets  
-- Integrated AI to generate insights, summaries, and trends  
-- Implemented backend validation, preprocessing, and schema checks  
-- Enabled interactive visualizations for data exploration  
+<p>
+  <img src="https://skillicons.dev/icons?i=django,python,react" />
+</p>
+
+**Overview**  
+Master EDA is an AI-assisted platform that transforms CSV datasets into automated exploratory data analysis reports with visual insights and contextual explanations.
+
+**Key Responsibilities & Features**
+- Built backend pipelines for data ingestion, cleaning, preprocessing, and validation  
+- Integrated Gemini AI to generate summaries, insights, and trend explanations  
+- Designed APIs to process large structured datasets efficiently  
+- Enabled interactive visualizations to improve data interpretability  
+
+**Focus Areas**
+Data analysis, AI integration, backend pipelines, structured data processing
 
 ---
 
-## Achievements
+## Achievements & Activities
 
-- Solved **300+ Data Structures & Algorithms** problems on LeetCode  
+- Solved **300+ Data Structures and Algorithms problems** on LeetCode  
+- Covered core topics including arrays, trees, graphs, recursion, and dynamic programming  
 - Selected for **Smart India Hackathon 2024 (Internal Round)**  
-- Completed **Google Crash Course on Python**
+- Completed **Google Crash Course on Python**, strengthening Python fundamentals  
 
 ---
+
+## GitHub Usage & Development Practices
+
+- Regular use of Git and GitHub for version control and collaboration  
+- Experience maintaining clean commit history and modular repository structure  
+- Comfortable working with feature-based development and incremental improvements  
+- Emphasis on readable code, separation of concerns, and maintainability  
+
+---
+
+## Areas of Interest
+
+- Backend Engineering  
+- API Design & System Architecture  
+- Data Analysis & Data Engineering  
+- AI-assisted Software Systems  
+- Scalable Web Applications  
 
 ---
 
@@ -96,4 +147,4 @@ Focused on building **clean, scalable, and production-ready backend systems**.
 
 **Email:** deysouvagya723@gmail.com  
 
-Open to backend, data, and AI-focused software engineering opportunities.
+Open to backend, data, and AI-focused software engineering opportunities, internships, and collaborations.
