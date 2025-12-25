@@ -6,7 +6,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/Degree-B.Tech%20CSE-blue" />
-  <img src="https://img.shields.io/badge/Graduation-2025-success" />
+  <img src="https://img.shields.io/badge/Graduation-2026-success" />
   <img src="https://img.shields.io/badge/Location-Kolkata%2C%20India-lightgrey" />
 </p>
 
