@@ -118,7 +118,6 @@ Data analysis, AI integration, backend pipelines, structured data processing
 ## Achievements & Activities
 
 - Solved **300+ Data Structures and Algorithms problems** on LeetCode  
-- Covered core topics including arrays, trees, graphs, recursion, and dynamic programming  
 - Selected for **Smart India Hackathon 2024 (Internal Round)**  
 - Completed **Google Crash Course on Python**, strengthening Python fundamentals  
 
