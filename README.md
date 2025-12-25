@@ -90,14 +90,6 @@ Focused on building **clean, scalable, and production-ready backend systems**.
 
 ---
 
-## GitHub Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=SouvagyaDey&show_icons=true&include_all_commits=true&hide_border=true&theme=default"
-  />
-</p>
-
 ---
 
 ## Contact
