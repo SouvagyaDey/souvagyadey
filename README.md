@@ -11,6 +11,9 @@
 </p>
 
 <p>
+  <a href="mailto:deysouvagya723@gmail.com">
+    <img src="https://img.shields.io/badge/Email-deysouvagya723%40gmail.com-red?style=flat&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://github.com/souvagyadey">
     <img src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github" />
   </a>
